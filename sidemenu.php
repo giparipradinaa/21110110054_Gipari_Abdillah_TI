@@ -12,7 +12,7 @@
             <div class="sidebar-brand-icon rotate-n-15">
                 <i class="fas fa-laugh-wink"></i>
             </div>
-            <div class="sidebar-brand-text mx-3">SB Admin <sup>2</sup></div>
+            <div class="sidebar-brand-text mx-3">PASWA <sup>2022</sup></div>
         </a>
 
         <!-- Divider -->
@@ -241,7 +241,7 @@
                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <span class="mr-2 d-none d-lg-inline text-gray-600 small">Douglas McGee</span>
                             <img class="img-profile rounded-circle"
-                                src="img/undraw_profile.svg">
+                                src="http://www.imgcomfort.com/us/-/media/corporatesite/socialshareimages/img-logo1200x600.jpg">
                         </a>
                         <!-- Dropdown - User Information -->
                         <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
